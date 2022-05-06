@@ -1,0 +1,20 @@
+body {
+	background-color: lightblue;
+	font-family: serif;
+	color: royalblue;
+	text-align: center;
+}
+
+h1 {
+	font-family: cursive;
+}
+
+header {
+	background-color: antiquewhite;
+
+
+}
+
+#container {
+	margin: 100px;
+}
